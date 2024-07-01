@@ -52,11 +52,11 @@ Note: I got error while connecting to database, SO I had to uninstall both and i
 * Open the folder in an editor (VsCode). Open settings.py and add 'website' under INSTALLED_APPS
 
 * update below details under DATABASES <br/>
-&ensp;'NAME': 'Tally',<br/>
-        'USER': 'root',<br/>
-        'PASSWORD': '1234',<br/>
-        'HOST': 'localhost',<br/>
-        'PORT': '3306',<br/>
+&emsp;'NAME': 'Tally',<br/>
+&emsp;'USER': 'root',<br/>
+&emsp;'PASSWORD': '1234',<br/>
+&emsp;'HOST': 'localhost',<br/>
+&emsp;'PORT': '3306',<br/>
 
 * connect to the database
 
