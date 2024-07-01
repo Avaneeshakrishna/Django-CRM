@@ -2,6 +2,9 @@
 
 Customer relationship management is a process in which a business or other organization administers its interactions with customers, typically using data analysis to study large amounts of information
 
+## Description
+
+Developed a Customer Relationship Management App with Django, Python, and MySQL. The app will use MySQL for the database.  We'll be able to Register, Log In, Log Out, Add Records, View Records, Update Records, and Delete Records.
 
 ## Getting Started
 * Open GitBash
