@@ -51,7 +51,7 @@ Note: I got error while connecting to database, SO I had to uninstall both and i
 
 * Open the folder in an editor (VsCode). Open settings.py and add 'website' under INSTALLED_APPS
 
-* update below details under DATABASES
+* update below details under DATABASES <br/>
 &ensp;'NAME': 'Tally',<br/>
         'USER': 'root',<br/>
         'PASSWORD': '1234',<br/>
